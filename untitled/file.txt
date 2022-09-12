@@ -1,0 +1,22 @@
+timePaidBroadcast=58 min, broadcastTime=120 min, broadcastСost=2820 €
+ list: 
+name Sting - Fragine; duration - 6 min; price = 0 €
+name Sting - DesertRose; duration - 5 min; price = 0 €
+name Sting - DesertRose; duration - 5 min; price = 0 €
+name Scorpions - YouAndI; duration - 6 min; price = 0 €
+name Scorpions - MaybeIMaybeYou; duration - 4 min; price = 0 €
+name Scorpions - YouAndI; duration - 7 min; price = 0 €
+name Scorpions - MaybeIMaybeYou; duration - 6 min; price = 0 €
+name Metallica - TheUnforgiven; duration - 4 min; price = 0 €
+name Metallica - NothingElseMatters; duration - 6 min; price = 0 €
+name Metallica - EnterSandman; duration - 8 min; price = 0 €
+name Metallica - FadeToBlack; duration - 5 min; price = 0 €
+name LarryKing; duration - 10 min; price = 300 €
+name OprahWinfrey; duration - 12 min; price = 360 €
+name CraigFerguson; duration - 10 min; price = 300 €
+name DavidLetterman; duration - 12 min; price = 360 €
+name UriyDud; duration - 10 min; price = 300 €
+name Fanta; duration - 1 min; price = 300 €
+name CocaCola; duration - 1 min; price = 300 €
+name Sprite; duration - 1 min; price = 300 €
+name Mirinda; duration - 1 min; price = 300 €
